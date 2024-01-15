@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**thesudip100/thesudip100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>👋 Hello, I'm Your Sudip Paudel</h1>
+        <p style="font-weight: bold;">
+            🚀 Software Engineer | 🌐 Web Developer | 📚 Open Source Enthusiast
+        </p>
+        <p style="font-style: italic;">
+            🌟 Welcome to my GitHub profile! Feel free to explore my projects and contributions.
+        </p>
+        <p>
+            📫 Connect with me on <a href="https://www.linkedin.com/in/sudip-paudel-0b67121aa/">LinkedIn</a>
+        </p>
+   
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
