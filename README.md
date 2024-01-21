@@ -28,6 +28,7 @@
             <a href="https://www.instagram.com/thesudip100/?next=%2F"><img src="https://e7.pngegg.com/pngimages/704/270/png-clipart-social-media-instagram-login-graphy-ig-instagram-icon-rectangle-magenta.png" alt="Insta" width="70" height="60"</a>
             <a href="https://www.facebook.com/iamsudip100/"><img src="https://w7.pngwing.com/pngs/561/460/png-transparent-fb-facebook-facebook-logo-social-media-icon.png" alt="Facebook" width="70" height="60"</a>
             <a href="https://www.linkedin.com/in/sudip-paudel-0b67121aa/"><img src="https://png.pngtree.com/element_our/png/20180827/linkedin-social-media-icon-png_71812.jpg" alt="Linkedln" width="70" height="60"</a>
+            <a href="https://www.kaggle.com/sudippaudelq211222"><img src="https://miro.medium.com/v2/resize:fit:1358/0*EcNt1Y_p5njLMX3F" alt="Kaggle" width="70" height="60"</a>
             
     
 </body>
